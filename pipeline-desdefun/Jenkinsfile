@@ -1,3 +1,6 @@
 //@Library('jenkins_shared')
 library 'jenkins_shared'
-pipe('juan')
+pipe(
+    nombre: "Juan",
+    apellido: "apellido"
+)
