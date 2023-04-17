@@ -1,5 +1,5 @@
 @Library('jenkins_shared')
 pipeline(
-    nombre :"Juan",
+    nombre:"Juan",
     apellido: "Guerra"
 )
