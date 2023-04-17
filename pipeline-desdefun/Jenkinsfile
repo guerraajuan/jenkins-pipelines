@@ -1,0 +1,5 @@
+@Library('jenkins_shared')
+pipeline(
+    nombre :"Juan",
+    apellido: "Guerra"
+)
