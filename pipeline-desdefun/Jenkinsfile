@@ -1,5 +1,5 @@
-//@Library('jenkins_shared')
-library 'jenkins_shared'
+@Library('jenkins_shared') _
+//library 'jenkins_shared'
 pipe(
     nombre: "Juan",
     apellido: "Guerra"
