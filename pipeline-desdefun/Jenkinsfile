@@ -1,6 +1,6 @@
 @Library('jenkins_shared') _
 //library 'jenkins_shared'
-pipe(
+pipe.call(
     nombre: "Juan",
     apellido: "Guerra"
 )
