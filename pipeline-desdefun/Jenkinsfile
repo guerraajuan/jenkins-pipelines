@@ -1,4 +1,4 @@
-@Library('jenkins_shared') _
+@Library('jenkins_shared@test') _
 //library 'jenkins_shared'
 pipe.call(
     nombre: "Juan",
