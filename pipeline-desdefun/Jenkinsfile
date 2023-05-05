@@ -1,5 +1,6 @@
 //@Library('jenkins_shared@test') _
 library 'jenkins_shared'
+library 'utils-pipeline'
 pipe.call(
     nombre: "Juan",
     apellido: "Guerra",
