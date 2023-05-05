@@ -6,7 +6,3 @@ pipe.call(
     apellido: "Guerra",
     edad: 32
 )
-script {
-    def output = new helpers.Output()
-    output.SaludoNombre("Juan")
-}
