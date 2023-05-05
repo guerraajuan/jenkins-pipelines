@@ -3,4 +3,5 @@ library 'jenkins_shared'
 pipe.call(
     nombre: "Juan",
     apellido: "Guerra"
+    edad: 32
 )
