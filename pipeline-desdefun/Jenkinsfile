@@ -1,5 +1,5 @@
 //@Library('jenkins_shared@test') _
-library 'jenkins_shared@test2'
+library 'jenkins_shared'
 pipe.call(
     nombre: "Juan",
     apellido: "Guerra",
